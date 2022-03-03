@@ -12,6 +12,10 @@ h2 {
     font-family: monospace;
 }
 
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
 img {
     width: 500px;
     border-radius: 15px;
